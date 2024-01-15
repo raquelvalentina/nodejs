@@ -1,6 +1,7 @@
 {
-  "author": "Jane Doe",
+  
   "name": "fcc-learn-node-with-express",
+  "author": "Raz211",
   "version": "0.1.0",
   "dependencies": {
     "body-parser": "^1.15.2",
